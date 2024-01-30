@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task2</title>
+</head>
+<body>
+    <div>
+        <ul>
+            <li ><a href="" style="color: blue;">Home</a></li>
+            <li><a href="" style="color: blue;">About</a></li>
+            <li><a href="" style="color: blue;">Services</a></li>
+            <li><a href="" style="color: blue;">Contact</a></li>
+        </ul>
+    </div>
+</body>
+</html>
